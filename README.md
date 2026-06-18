@@ -6,6 +6,11 @@ The Smart Food Delivery Management System is a backend application developed usi
 
 The project demonstrates CRUD (Create, Read, Update, Delete) operations and database integration using MongoDB.
 
+
+## Documentation
+
+The project report is included in the `documentation` folder as a Microsoft Word document containing project details, implementation steps, screenshots, and testing evidence.
+
 ---
 
 ## Technologies Used
